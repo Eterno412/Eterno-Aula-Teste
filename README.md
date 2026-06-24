@@ -1,3 +1,5 @@
+## Algoritmos
+Essa pasta contem algoritmos em C
 ## Eterno-Aula-Teste
 Este é um repósitorio onde vamos iniviar os trabalhos com o git, fazendo o primeiro commit e trabalhando com as branches e pull request.
 
